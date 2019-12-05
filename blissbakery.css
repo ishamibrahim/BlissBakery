@@ -1,0 +1,28 @@
+.happy{
+	position: absolute;
+	right: 0;
+	background: white;
+	padding: 10px 10px 10px 17px;
+}
+.chef{
+	padding-bottom: 200px;
+}
+.chef img{
+	width: 100%;
+
+}
+.hero{
+	padding-left: 50%
+
+}
+.red img{
+	 width: 100%;
+}
+.pink p{
+	color: #888;
+	text-align: center;
+}
+.myfoot{
+	background: #ededed;
+	padding: 30px;
+}
